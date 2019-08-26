@@ -1,10 +1,10 @@
 {
+    "cSpell.words": [
+        "ndjamcar"
+    ],
     "workbench.colorCustomizations": {
         "activityBar.background": "#431A58",
         "titleBar.activeBackground": "#5E257B",
         "titleBar.activeForeground": "#FCF9FD"
-    },
-    "cSpell.words": [
-        "ndjamcar"
-    ]
+    }
 }
